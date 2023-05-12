@@ -8,4 +8,4 @@ This is the first project in the world of programming... I'll leave it unchanged
 
 In this project, the first acquaintance with the programming language Python and its libraries takes place.
 
-![alt text](https://github.com/Frvzr/slb_extender_calculator/blob/main/screens/calc.jpg)
+![alt text](https://github.com/Frvzr/slb_extender_calculator/blob/tree/screens/calc.jpg)
